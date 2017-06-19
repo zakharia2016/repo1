@@ -1,0 +1,10 @@
+ Volume in drive C is Windows7_OS
+ Volume Serial Number is B6ED-8996
+
+ Directory of C:\Abhishek_RC\Dumm_Project
+
+19-06-2017  22:26    <DIR>          .
+19-06-2017  22:26    <DIR>          ..
+19-06-2017  22:26                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  21,279,813,632 bytes free
